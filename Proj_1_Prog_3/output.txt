@@ -1,0 +1,25 @@
+
+ The given integer input is 51966.
+ The hexadecimal value is CAFE.
+ The last nibble value is E.
+ Binary representation = 1110
+
+ 3 bits are ON in the last 4 bits: TRUE
+
+ The reversed byte is FECA.
+ The last nibble value is A.
+ Binary representation = 1010
+
+ 3 bits are ON in the last 4 bits: FALSE
+
+ The rotated value by 4 bits to the left is ECAF.
+ The last nibble value is F.
+ Binary representation = 1111
+
+ 3 bits are ON in the last 4 bits: TRUE
+
+ The rotated value by 8 bits to the right is AFEC.
+ The last nibble value is C.
+ Binary representation = 1100
+
+ 3 bits are ON in the last 4 bits: FALSE

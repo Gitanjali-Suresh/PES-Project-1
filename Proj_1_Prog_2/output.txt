@@ -1,0 +1,60 @@
+
+ The entered ASCII code: 66
+ Code: 66	 ASCII Char: B		Type: Upper Case
+
+ The entered ASCII code: 114
+ Code: 114	 ASCII Char: r		Type: Lower Case
+
+ The entered ASCII code: 117
+ Code: 117	 ASCII Char: u		Type: Lower Case
+
+ The entered ASCII code: 99
+ Code: 99	 ASCII Char: c		Type: Lower Case
+
+ The entered ASCII code: 101
+ Code: 101	 ASCII Char: e		Type: Lower Case
+
+ The entered ASCII code: 32
+ Code: 32	 ASCII Char:  		Type: White Space
+
+ The entered ASCII code: 83
+ Code: 83	 ASCII Char: S		Type: Upper Case
+
+ The entered ASCII code: 97
+ Code: 97	 ASCII Char: a		Type: Lower Case
+
+ The entered ASCII code: 121
+ Code: 121	 ASCII Char: y		Type: Lower Case
+
+ The entered ASCII code: 115
+ Code: 115	 ASCII Char: s		Type: Lower Case
+
+ The entered ASCII code: 32
+ Code: 32	 ASCII Char:  		Type: White Space
+
+ The entered ASCII code: 73
+ Code: 73	 ASCII Char: I		Type: Upper Case
+
+ The entered ASCII code: 105
+ Code: 105	 ASCII Char: i		Type: Lower Case
+
+ The entered ASCII code: 33
+ Code: 33	 ASCII Char: !		Type: Special character 
+
+ The entered ASCII code: 7
+ Code: 7	 ASCII Char: 		Type: White Space
+
+ The entered ASCII code: 9
+ Code: 9	 ASCII Char: 			Type: White Space
+
+ The entered ASCII code: 50
+ Code: 50	 ASCII Char: 2		Type: Digit
+
+ The entered ASCII code: 48
+ Code: 48	 ASCII Char: 0		Type: Digit
+
+ The entered ASCII code: 49
+ Code: 49	 ASCII Char: 1		Type: Digit
+
+ The entered ASCII code: 57
+ Code: 57	 ASCII Char: 9		Type: Digit
